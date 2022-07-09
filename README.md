@@ -1,1 +1,1 @@
-# cpu
+# Just cpu
